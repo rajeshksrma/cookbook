@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "336695128931",
+    "firebase_url": "https://cookbook-7a788-default-rtdb.firebaseio.com",
+    "project_id": "cookbook-7a788",
+    "storage_bucket": "cookbook-7a788.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:336695128931:android:d4a1853cc9086b2e839956",
+        "android_client_info": {
+          "package_name": "com.cookbook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "336695128931-t4lfqr5puq22uh8p9ls68nvs5at2vdgi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmf8zvuIPNrDOY8yLusuLnfo1MxhG6dg4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "336695128931-t4lfqr5puq22uh8p9ls68nvs5at2vdgi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "336695128931-ed6mem06lki7jmkvd5dqm3r5ul7jt8n9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.cookbook"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
